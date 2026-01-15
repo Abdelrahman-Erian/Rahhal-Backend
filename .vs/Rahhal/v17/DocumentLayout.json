@@ -1,0 +1,383 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\baseendpoint\\baseendpointparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\baseendpoint\\baseendpointparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\baseendpoint\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\baseendpoint\\baseendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\userstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\userstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\userinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\userinfoprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\tokenhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\requestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\requestresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\medaitorresultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\medaitorresultextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\jwtsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\views\\endpointresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\views\\endpointresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\data\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\configration\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\configration\\applicationmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\basehandler\\baserequesthandlerparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\basehandler\\baserequesthandlerparameter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\rahhal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\rahhal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\basehandler\\baserequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\basehandler\\baserequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\common\\enum\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\common\\enum\\errorcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|c:\\users\\ahmed balal\\onedrive\\documents\\desktop\\rahhal\\rahhal-backend\\rahhal\\rahhal\\filters\\userinfofilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27EDAECD-BE9F-4BB8-BB9D-BFEA3A8133F5}|Rahhal\\Rahhal.csproj|solutionrelative:rahhal\\filters\\userinfofilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\TokenHelper.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\TokenHelper.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\TokenHelper.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\TokenHelper.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:01:35.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserInfoProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\UserInfoProvider.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\UserInfoProvider.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\UserInfoProvider.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\UserInfoProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:58:45.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserState.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\UserState.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\UserState.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\UserState.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\UserState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:19:42.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseEndpoint\\BaseEndpoint.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\BaseEndpoint\\BaseEndpoint.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseEndpoint\\BaseEndpoint.cs",
+              "RelativeToolTip": "Rahhal\\Common\\BaseEndpoint\\BaseEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:59:33.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEndpointParameters.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseEndpoint\\BaseEndpointParameters.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\BaseEndpoint\\BaseEndpointParameters.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseEndpoint\\BaseEndpointParameters.cs",
+              "RelativeToolTip": "Rahhal\\Common\\BaseEndpoint\\BaseEndpointParameters.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T12:59:37.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RequestResult.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\RequestResult.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\RequestResult.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\RequestResult.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\RequestResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:05:39.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedaitorResultExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\MedaitorResultExtension.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\MedaitorResultExtension.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\MedaitorResultExtension.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\MedaitorResultExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:07:32.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "JWTSetting.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\JWTSetting.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\JWTSetting.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\JWTSetting.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\JWTSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:04:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndpointResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\EndpointResponse.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Views\\EndpointResponse.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Views\\EndpointResponse.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Views\\EndpointResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:06:49.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Data\\Repository\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Rahhal\\Data\\Repository\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:13:32.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "Rahhal\\Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAIAxwFUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:13:24.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Context.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Data\\Context.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Data\\Context.cs",
+              "RelativeToolTip": "Rahhal\\Data\\Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:12:30.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationModule.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Configration\\ApplicationModule.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Configration\\ApplicationModule.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Configration\\ApplicationModule.cs",
+              "RelativeToolTip": "Rahhal\\Configration\\ApplicationModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:56:08.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Models\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Models\\BaseModel.cs",
+              "RelativeToolTip": "Rahhal\\Models\\BaseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:06:19.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseRequestHandlerParameter.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseHandler\\BaseRequestHandlerParameter.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\BaseHandler\\BaseRequestHandlerParameter.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseHandler\\BaseRequestHandlerParameter.cs",
+              "RelativeToolTip": "Rahhal\\Common\\BaseHandler\\BaseRequestHandlerParameter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:05:39.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Rahhal",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Rahhal.csproj",
+              "RelativeDocumentMoniker": "Rahhal\\Rahhal.csproj",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Rahhal.csproj",
+              "RelativeToolTip": "Rahhal\\Rahhal.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-15T12:54:16.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BaseRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseHandler\\BaseRequestHandler.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\BaseHandler\\BaseRequestHandler.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\BaseHandler\\BaseRequestHandler.cs",
+              "RelativeToolTip": "Rahhal\\Common\\BaseHandler\\BaseRequestHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:05:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ErrorCode.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Enum\\ErrorCode.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Common\\Enum\\ErrorCode.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Common\\Enum\\ErrorCode.cs",
+              "RelativeToolTip": "Rahhal\\Common\\Enum\\ErrorCode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T14:06:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserInfoFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Filters\\UserInfoFilter.cs",
+              "RelativeDocumentMoniker": "Rahhal\\Filters\\UserInfoFilter.cs",
+              "ToolTip": "C:\\Users\\Ahmed Balal\\OneDrive\\Documents\\Desktop\\Rahhal\\Rahhal-Backend\\Rahhal\\Rahhal\\Filters\\UserInfoFilter.cs",
+              "RelativeToolTip": "Rahhal\\Filters\\UserInfoFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T13:58:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{007a3a6b-b5b2-454d-a2bd-cf929f989be2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

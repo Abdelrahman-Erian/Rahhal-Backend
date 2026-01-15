@@ -1,0 +1,6 @@
+@Rahhal_HostAddress = http://localhost:5112
+
+GET {{Rahhal_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
