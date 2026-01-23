@@ -1,5 +1,6 @@
 ﻿
 using MediatR;
+using Rahhal.Common.Helper;
 using Rahhal.Common.Views;
 using Rahhal.Models;
 
