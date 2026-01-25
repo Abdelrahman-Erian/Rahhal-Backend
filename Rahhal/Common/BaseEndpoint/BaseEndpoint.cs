@@ -7,7 +7,6 @@ using Rahhal.Common.Views;
 
 namespace Rahhal.Common.BaseEndpoint
 {
-    [Route("api/[controller]")]
     [ApiController]
     public class BaseEndpoint<TRequest, TResponse> : ControllerBase
     {
