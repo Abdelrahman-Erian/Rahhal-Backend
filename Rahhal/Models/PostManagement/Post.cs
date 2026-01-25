@@ -11,6 +11,5 @@ public class Post : BaseModel
     [Required] public Guid UserId { get; set; }
     [ForeignKey(nameof(UserId))] public virtual User? User { get; set; }
 
-    public Guid MediaId { get; set; }
-    [ForeignKey(nameof(MediaId))] public List<PostMedia>? Media { get; set; }
+    public List<PostMedia>? Media { get; set; }
 }
