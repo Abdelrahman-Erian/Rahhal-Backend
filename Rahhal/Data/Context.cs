@@ -2,6 +2,7 @@
 using Rahhal.Models.UserManagment;
 using System.Data;
 using System.Diagnostics;
+using Rahhal.Models.PostManagement;
 
 namespace Rahhal.Data
 {
@@ -12,6 +13,9 @@ namespace Rahhal.Data
         }
 
         public DbSet<User> Users { get; set; }
+        public DbSet<Post> Posts { get; set; }
+        public DbSet<PostMedia> PostMedias { get; set; }
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -21,10 +25,10 @@ namespace Rahhal.Data
                 .IsUnique();
 
 
-            #region Seed Admin User    
+            #region Seed Admin User
+
             var passwordHash = "OwsaNEXpDDAXEx+oo3zeNejRgwsl/ezkljw1uA0Thuw=";
             var passwordSalt = "iCkBAbFby/I7C2G5Hg2CWQ==";
-
 
 
             var superAdminId = new Guid("11111111-1111-1111-1111-111111111111");
@@ -35,17 +39,18 @@ namespace Rahhal.Data
                     Fname = "Super Admin",
                     Lname = "Admin",
                     Email = "admin@Rahhal.com",
-                    UserName ="Super",
+                    UserName = "Super",
                     HashedPassword = passwordHash,
                     Role = Common.Enum.Role.SuperAdmin,
                     SaltPassword = passwordSalt,
                     CreatedBy = "system",
-                    CreatedDate  = new DateTime(2026, 1, 22, 10, 16, 17, DateTimeKind.Utc)
+                    CreatedDate = new DateTime(2026, 1, 22, 10, 16, 17, DateTimeKind.Utc)
                 }
             );
-            #endregion
 
+            #endregion
         }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //here as i can see every quary i can see the sql sentacse about that query in the debug console

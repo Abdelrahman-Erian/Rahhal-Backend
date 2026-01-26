@@ -23,7 +23,19 @@ namespace Rahhal
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.DocInclusionPredicate((docName, apiDesc) => true);
+
+                c.TagActionsBy(api =>
+                {
+                    var path = api.RelativePath ?? "";
+                    var parts = path.Split('/');
+                    return new[] { parts.Length >= 1 ? parts[0] : "Default" };
+                });
+
+                c.OrderActionsBy(api => api.RelativePath);
+            });
 
             #region MediatR Registration
             builder.Services.AddMediatR(cfg =>
