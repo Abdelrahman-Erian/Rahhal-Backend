@@ -12,7 +12,7 @@
         UnknownError,
         ServerError,
         Unknown,
-        ExpectionHappend,
+        ExceptionHappened,
         UserNotFound,
     }
 }

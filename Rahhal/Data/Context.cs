@@ -24,6 +24,12 @@ namespace Rahhal.Data
                 .HasIndex(u => u.Email)
                 .IsUnique();
 
+            modelBuilder.Entity<PostMedia>()
+                .HasOne(pm => pm.Post)
+                .WithMany(p => p.Media)
+                .HasForeignKey(pm => pm.Post_Id)
+                .OnDelete(DeleteBehavior.Cascade);
+
 
             #region Seed Admin User
 
