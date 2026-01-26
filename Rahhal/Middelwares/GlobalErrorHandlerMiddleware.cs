@@ -39,7 +39,7 @@ public class GlobalErrorHandlerMiddleware
                 context.Response.StatusCode = StatusCodes.Status500InternalServerError;
                 context.Response.ContentType = "application/json"; // Return JSON response
 
-                var response = EndpointResponse<bool>.Failure(ErrorCode.ExpectionHappend, $"an error happen while processing the request");
+                var response = EndpointResponse<bool>.Failure(ErrorCode.ExceptionHappened, $"an error happen while processing the request");
 
                 await context.Response.WriteAsJsonAsync(response);
             }

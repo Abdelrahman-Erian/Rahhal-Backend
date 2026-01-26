@@ -1,0 +1,1 @@
+namespace Rahhal.Features.Post.CreatePost.DTOs { public class CreatePostResponseDTO { } }
