@@ -11,6 +11,8 @@
         Unauthorized,
         UnknownError,
         ServerError,
-        alreadyExist,
+        Unknown,
+        ExceptionHappened,
+        UserNotFound,
     }
 }
