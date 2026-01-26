@@ -5,10 +5,12 @@ using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Rahhal.Common.Views;
 using Rahhal.Models;
 using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
 
 namespace Rahhal.Data.Repository
 {
-    public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseModel
+    public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseModel , new()
     {
         Context _context;
         DbSet<TEntity> _dbSet;
@@ -38,10 +40,29 @@ namespace Rahhal.Data.Repository
             _dbSet.Remove(entity);
         }
 
-        public async Task SoftDeleteAsync(TEntity entity)
+        public IQueryable<TEntity> Get()
         {
+            return _dbSet.Where(entity => !entity.IsDeleted);
+        }
+        public IQueryable<TEntity> Get(Expression<Func<TEntity, bool>> predicate)
+        {
+            return Get().Where(predicate);
+        }
+
+        public IQueryable<TEntity> GetAsSplit(Expression<Func<TEntity, bool>> predicate)
+        {
+            return Get().Where(predicate).AsSplitQuery();
+        }
+
+
+        public async Task SoftDeleteAsync(Guid entityId)
+        {
+            TEntity entity = new () { ID = entityId };
             entity.IsDeleted = true;
-            _dbSet.Update(entity);
+            entity.UpdatedBy = _userState.UserID ?? "System";
+            entity.UpdatedDate = DateTime.UtcNow;
+            Update(entity, nameof(entity.IsDeleted), nameof(entity.UpdatedBy), nameof(entity.UpdatedDate));
+            await SaveChangesAsync();
         }
         public async Task Update(TEntity entity, params string[] properties)
         {
@@ -69,6 +90,21 @@ namespace Rahhal.Data.Repository
 
             await Task.CompletedTask;
         }
+        public Task AddRangeAsync(IEnumerable<TEntity> entities)
+        {
+            foreach (var entity in entities)
+            {
+                entity.CreatedBy = _userState.UserID ?? "System";
+                entity.CreatedDate = DateTime.UtcNow;
+            }
+            return _dbSet.AddRangeAsync(entities);
+
+        }
+        public async Task<bool> AnyAsync(Expression<Func<TEntity, bool>> predicate)
+        {
+            return await Get().AnyAsync(predicate);
+        }
+
 
         public async Task<TEntity?> GetByIDAsync(Guid id)
         {
