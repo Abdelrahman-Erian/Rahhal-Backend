@@ -2,6 +2,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using Rahhal.Common.Views;
 using Rahhal.Common.BaseHandler;
+using Rahhal.Common.Enum;
 using Rahhal.Data.Repository;
 using Rahhal.Features.Post.GetByIdPost.ViewModels;
 using Rahhal.Features.Posts.GetByIdPost.ViewModels;
@@ -23,6 +24,7 @@ namespace Rahhal.Features.Post.GetByIdPost.Queries
             var baseQuery = repository.GetAll();
             baseQuery = ApplyFilters(baseQuery, request.ViewModel);
 
+
             var result = await baseQuery.Select(x => new GetByIdPostResponseViewModel
             {
                 ID = x.ID,
@@ -32,6 +34,10 @@ namespace Rahhal.Features.Post.GetByIdPost.Queries
                 Description = x.Description,
                 Media_URLs = x.Media != null ? x.Media.Select(y => y.Media_URL).ToList() : null
             }).FirstOrDefaultAsync(cancellationToken);
+
+            if (result == null)
+                return RequestResult<GetByIdPostResponseViewModel>.Failure(ErrorCode.NotFound, "Not found");
+
             return RequestResult<GetByIdPostResponseViewModel>.Success(result!);
         }
 
